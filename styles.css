@@ -1,0 +1,17 @@
+*{
+    background-color: #D9D9D9;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    background-color: #94237b;
+    align-items: center;
+}
+#logo{
+    background-color: aqua;
+}
+.links{
+    background-color: red;
+}
+
